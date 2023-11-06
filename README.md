@@ -1,4 +1,4 @@
-# hospitalmanagement
+# Hospital Management System
 Hospital Management System to be deployed on Azure for Education purpose 
 
 ## Functions
